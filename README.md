@@ -47,8 +47,14 @@ C++ system to add, search, update, and manage student records — file handling 
 
 ---
 
-### ❌ Tic Tac Toe &nbsp;&nbsp;&nbsp; 🔢 Guess the Number
-Two-player terminal game with clean logic &nbsp;|&nbsp; Number game with difficulty modes + score tracking
+### ❌ Tic Tac Toe &nbsp;&nbsp;&nbsp; 
+Two-player terminal game with clean logic &nbsp;|&nbsp; 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
+
+###  🔢 Guess the Number
+&nbsp;|&nbsp; Number game with difficulty modes + score tracking
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
