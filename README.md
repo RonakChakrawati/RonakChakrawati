@@ -71,6 +71,12 @@ Two-player terminal game with clean logic &nbsp;|&nbsp; Number game with difficu
 
 </div>
 
+## ⚡ Beyond the Code
+
+- ♟️ Chess player — Queen's Gambit enjoyer, currently ~1200 Elo, slowly climbing
+- ⚽ Football is life — hence the simulator exists
+- 📖 Into books like *Atomic Habits* and *Deep Work* — basically trying to be less chaotic
+
 ---
 
 <div align="center">
