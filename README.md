@@ -18,7 +18,7 @@
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet | `120+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet | `160+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
 | 🧩 | **OOP** — understanding the why, not memorising patterns | `ongoing` |
 | 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
@@ -30,7 +30,7 @@
 <div align="center">
 
 ### ⚽ Football Career Mode Simulator
-C++ simulation of FIFA Career Mode (2008–15 era) — real player data, transfer market, club AI
+C++ simulation of FIFA Career Mode — real player data, transfer market, club AI
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-5865F2?style=flat-square)
@@ -73,9 +73,9 @@ Two-player terminal game with clean logic &nbsp;|&nbsp; Number game with difficu
 
 ## ⚡ Beyond the Code
 
-- ♟️ Chess player — Queen's Gambit enjoyer, currently ~1200 Elo, slowly climbing
+- ♟️ Chess player —  currently ~1450 Elo, slowly climbing
 - ⚽ Football is life — hence the simulator exists
-- 📖 Into books like *Atomic Habits* and *Deep Work* — basically trying to be less chaotic
+- 📖 Into books like MEDITATIONS  — basically trying to be less chaotic
 
 ---
 
