@@ -53,6 +53,8 @@ Two-player terminal game with clean logic &nbsp;|&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
 
+---
+
 ###  🔢 Guess the Number
 &nbsp;|&nbsp; Number game with difficulty modes + score tracking
 
