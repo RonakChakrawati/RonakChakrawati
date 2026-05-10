@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Industrial+Chemistry+%40+SVNIT+Surat;Self-teaching+Software+Engineering;C%2B%2B+%7C+DSA+%7C+Building+stuff)](https://git.io/typing-svg)
 
-<p>Debugging C++ at 1am. Grinding DSA. Figuring it out one commit at a time.</p>
+<p>Chemistry by degree. Software by choice. Terminal by addiction.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-chakrawati/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RonakChakrawati/)
