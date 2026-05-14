@@ -18,7 +18,7 @@
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet | `160+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode| `160+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
 | 🧩 | **OOP** — understanding the why, not memorising patterns | `ongoing` |
 | 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
@@ -30,7 +30,7 @@
 <div align="center">
 
 ### ⚽ Football Career Mode Simulator
-C++ simulation of FIFA Career Mode — real player data, transfer market, club AI
+Built around OOP design: Club, Player, and Transfer classes with CSV-based player data loading. Currently implements squad management and basic transfer logic. Working toward a full season simulation engine with real player stats.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-5865F2?style=flat-square)
@@ -39,7 +39,7 @@ C++ simulation of FIFA Career Mode — real player data, transfer market, club A
 ---
 
 ### 🗂️ Student Record Management
-C++ system to add, search, update, and manage student records — file handling + clean OOP
+Demonstrates clean OOP architecture — all records persist across sessions. Built to practice real CRUD logic, not just theory.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![File Handling](https://img.shields.io/badge/File_Handling-20B2AA?style=flat-square)
