@@ -88,5 +88,5 @@ Two-player terminal game with clean logic &nbsp;|&nbsp;
 ---
 
 <div align="center">
-<sub>still learning. still building.</sub>
+<sub>STILL LEARNING , STILL BUILDING </sub>
 </div>
