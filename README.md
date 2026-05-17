@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonakChakrawati)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ronakrc10@gmail.com)
 
-💡 Open to open-source contributions — if you have a beginner-friendly C++ or Python project, feel free to reach out.
+💡 Open to open-source contributions — if you have a C++ project, feel free to reach out.
 
 </div>
 
