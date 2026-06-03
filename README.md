@@ -21,7 +21,7 @@
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode| `170+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode| `200+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
 | 🧩 | **OOP** — understanding the why, not memorising patterns | `ongoing` |
 | 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
