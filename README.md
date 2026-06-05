@@ -21,16 +21,31 @@
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode| `200+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode | `210+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
 | 🧩 | **OOP** — understanding the why, not memorising patterns | `ongoing` |
 | 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
+| 🐍 | **Python + Flask** — backend development | `learning` |
+| 🤖 | **RozgarSathi** — Samsung Solve for Tomorrow 2026 | `building` |
 
 ---
 
 ## 🚀 Projects
 
 <div align="center">
+
+### 🤝 RozgarSathi — AI Job & Scheme Navigator
+AI-powered web platform for India's 400M+ blue collar workers. Matches workers to local jobs, government schemes (PMKVY, DDU-GKY, Ayushman Bharat), and generates personalized skill roadmaps via Gemini API. Results delivered on WhatsApp — zero app download needed.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+*Samsung Solve for Tomorrow 2026 — Theme 1: AI for Safer, Smarter, Inclusive Bharat*
+
+---
 
 ### ⚽ Football Career Mode Simulator
 Built around OOP design: Club, Player, and Transfer classes with CSV-based player data loading. Currently implements squad management and basic transfer logic. Working toward a full season simulation engine with real player stats.
@@ -50,16 +65,16 @@ Demonstrates clean OOP architecture — all records persist across sessions. Bui
 
 ---
 
-### ❌ Tic Tac Toe &nbsp;&nbsp;&nbsp; 
-Two-player terminal game with clean logic &nbsp;|&nbsp; 
+### ❌ Tic Tac Toe
+Two-player terminal game with clean logic
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
 
 ---
 
-###  🔢 Guess the Number
-&nbsp;|&nbsp; Number game with difficulty modes + score tracking
+### 🔢 Guess the Number
+Number game with difficulty modes + score tracking
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
@@ -74,6 +89,7 @@ Two-player terminal game with clean logic &nbsp;|&nbsp;
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,14 +98,16 @@ Two-player terminal game with clean logic &nbsp;|&nbsp;
 
 </div>
 
+---
+
 ## ⚡ Beyond the Code
 
-- ♟️ Chess player —  currently ~1450 Elo, slowly climbing
+- ♟️ Chess player — currently ~1450 Elo, slowly climbing
 - ⚽ Football is life — hence the simulator exists
-- 📖 Into books like MEDITATIONS  — basically trying to be less chaotic
+- 📖 Into books like Meditations — basically trying to be less chaotic
 
 ---
 
 <div align="center">
-<sub>STILL LEARNING , STILL BUILDING </sub>
+<sub>STILL LEARNING. STILL BUILDING.</sub>
 </div>
