@@ -23,10 +23,17 @@
 |---|---|---|
 | 🔥 | **DSA** — Striver A2Z Sheet & Leetcode | `210+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
-| 🧩 | **OOP** — understanding the why, not memorising patterns | `ongoing` |
 | 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
-| 🐍 | **Python + Flask** — backend development | `learning` |
+| 🐍 | **Python + Flask** — backend development | `active` |
 | 🤖 | **RozgarSathi** — Samsung Solve for Tomorrow 2026 | `building` |
+
+---
+
+<div align="center">
+
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonakChakrawati&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -102,7 +109,7 @@ Number game with difficulty modes + score tracking
 
 ## ⚡ Beyond the Code
 
-- ♟️ Chess player — currently ~1450 Elo, slowly climbing
+- ♟️ Chess player — currently ~1350 Elo, slowly climbing
 - ⚽ Football is life — hence the simulator exists
 - 📖 Into books like Meditations — basically trying to be less chaotic
 
