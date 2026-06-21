@@ -28,7 +28,7 @@ Currently in my **1st year of Industrial Chemistry** — spending every spare ho
 No shortcuts. No coaching. Just consistency.
 
 - 🔭 Currently building **RozgarSathi** — AI platform for blue-collar workers in India
-- 🧠 Solved **230+ DSA problems** on LeetCode — targeting 300+ by 2nd year
+- 🧠 Solved **230+ DSA problems** on LeetCode 
 - 💬 Ask me about **C++, DSA, Flask, or building stuff as a non-CS student**
 - 🤝 Open to **collaborations, open-source contributions, and C++ projects**
 - 📍 Surat, India
