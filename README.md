@@ -14,7 +14,7 @@
 
 <br/>
 
-* Not CS. Not taking the easy path. Just building.*
+** Not CS. Not taking the easy path. Just building.**
 
 </div>
 
