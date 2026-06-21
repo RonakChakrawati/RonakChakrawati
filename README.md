@@ -147,8 +147,6 @@ My corner of the internet — showcasing my projects, skills, and learning journ
 
 *If you're a non-CS student teaching yourself to code — you're not alone.*
 
-**[ronak-chakrawati.vercel.app](https://ronak-chakrawati.vercel.app/)**
-
 <sub>STILL LEARNING. STILL BUILDING.</sub>
 
 </div>
