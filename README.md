@@ -6,14 +6,32 @@
 
 <p>Chemistry by degree. Software by choice. Terminal by addiction.</p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ronak-chakrawati.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-chakrawati/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RonakChakrawati/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonakChakrawati)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ronakrc10@gmail.com)
 
-💡 Open to open-source contributions — if you have a C++ project, feel free to reach out.
+<br/>
+
+> Not CS. Not taking the easy path. Just building.
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Non-CS student at **SVNIT Surat** self-teaching software engineering from scratch.
+Currently in my **1st year of Industrial Chemistry** — spending every spare hour on DSA, C++, and building real projects.
+
+No shortcuts. No coaching. Just consistency.
+
+- 🔭 Currently building **RozgarSathi** — AI platform for blue-collar workers in India
+- 🧠 Solved **230+ DSA problems** on LeetCode — targeting 300+ by 2nd year
+- 💬 Ask me about **C++, DSA, Flask, or building stuff as a non-CS student**
+- 🤝 Open to **collaborations, open-source contributions, and C++ projects**
+- 📍 Surat, India
 
 ---
 
@@ -21,21 +39,24 @@
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet & Leetcode | `230+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet & LeetCode | `230+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
-| 🌐 | **Web Dev** — HTML • CSS • JavaScript | `learning` |
-| 🐍 | **Python + Flask** — backend development | `active` |
+| 🌐 | **Frontend** — HTML • CSS • JavaScript | `learning` |
+| 🐍 | **Backend** — Flask • Python | `active` |
 | 🤖 | **RozgarSathi** — Samsung Solve for Tomorrow 2026 | `building` |
 
 ---
-
 
 ## 🚀 Projects
 
 <div align="center">
 
 ### 🤝 RozgarSathi — AI Job & Scheme Navigator
-AI-powered web platform for India's 400M+ blue collar workers. Matches workers to local jobs, government schemes (PMKVY, DDU-GKY, Ayushman Bharat), and generates personalized skill roadmaps via Gemini API. Results delivered on WhatsApp — zero app download needed.
+
+AI-powered web platform built for India's 400M+ blue-collar workers.
+Matches workers to local jobs and government schemes (PMKVY, DDU-GKY, Ayushman Bharat)
+and generates personalized skill roadmaps via Gemini API.
+Results delivered directly on **WhatsApp** — zero app download needed.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -48,7 +69,11 @@ AI-powered web platform for India's 400M+ blue collar workers. Matches workers t
 ---
 
 ### ⚽ Football Career Mode Simulator
-Built around OOP design: Club, Player, and Transfer classes with CSV-based player data loading.Football management simulator built in C++ using OOP principles.Features club management, player attributes,transfer systems, match simulation logic,and scalable architecture for future season simulations. Working toward a full season simulation engine with real player stats.
+
+Football management simulator built in C++ using OOP principles.
+Features club management, player attributes, transfer systems, match simulation logic,
+and CSV-based player data loading.
+Working toward a full season simulation engine with real player stats.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-5865F2?style=flat-square)
@@ -56,28 +81,12 @@ Built around OOP design: Club, Player, and Transfer classes with CSV-based playe
 
 ---
 
-### 🗂️ Student Record Management
-Persistent student management system with file-based storage, CRUD operations ,and object-oriented design..
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![File Handling](https://img.shields.io/badge/File_Handling-20B2AA?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-5865F2?style=flat-square)
+### 🌐 Personal Portfolio
 
----
+My corner of the internet — showcasing my projects, skills, and learning journey.
 
-### ❌ Tic Tac Toe
-Two-player terminal game with clean logic
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
-
----
-
-### 🔢 Guess the Number
-Number game with difficulty modes + score tracking
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Logic](https://img.shields.io/badge/Game_Logic-3CB371?style=flat-square)
+[![Live](https://img.shields.io/badge/Live-ronak--chakrawati.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://ronak-chakrawati.vercel.app/)
 
 </div>
 
@@ -100,14 +109,46 @@ Number game with difficulty modes + score tracking
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RonakChakrawati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakChakrawati&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RonakChakrawati&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Open to
+
+- 💻 **C++ project collaborations**
+- 🌱 **Open source contributions** — beginner friendly repos preferred
+- 🛠️ **Building something useful** — especially social impact tech
+- 💬 **Connecting** with self-taught devs and non-CS folks in tech
+
+---
+
 ## ⚡ Beyond the Code
 
-- ♟️ Chess player — currently ~1350 Elo, slowly climbing
+- ♟️ Chess player — currently ~1450 Elo, slowly climbing
 - ⚽ Football is life — hence the simulator exists
-- 📖 Into books like Meditations — basically trying to be less chaotic
+- 📖 Into books like *Meditations* — basically trying to be less chaotic
 
 ---
 
 <div align="center">
+
+*If you're a non-CS student teaching yourself to code — you're not alone.*
+
+**[ronak-chakrawati.vercel.app](https://ronak-chakrawati.vercel.app/)**
+
 <sub>STILL LEARNING. STILL BUILDING.</sub>
+
 </div>
