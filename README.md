@@ -25,7 +25,7 @@
 Non-CS student at **SVNIT Surat** self-teaching software engineering from scratch.
 Currently in my **1st year of Industrial Chemistry** — spending every spare hour on DSA, C++, and building real projects.
 
-No shortcuts. No coaching. Just consistency.
+Learning software engineering one project at a time.
 
 - 🔭 Currently building **RozgarSathi** — AI platform for blue-collar workers in India
 - 🧠 Solved **230+ DSA problems** on LeetCode 
@@ -103,7 +103,7 @@ My corner of the internet — showcasing my projects, skills, and learning journ
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
