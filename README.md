@@ -28,7 +28,7 @@ Currently in my **1st year of Industrial Chemistry** — spending every spare ho
 Learning software engineering one project at a time.
 
 - 🔭 Currently building **RozgarSathi** — AI platform for blue-collar workers in India
-- 🧠 Solved **230+ DSA problems** on LeetCode 
+- 🧠 Solved **280+ DSA problems** on LeetCode 
 - 💬 Ask me about **C++, DSA, Flask, or building stuff as a non-CS student**
 - 🤝 Open to **collaborations, open-source contributions, and C++ projects**
 - 📍 Surat, India
@@ -39,7 +39,7 @@ Learning software engineering one project at a time.
 
 | | What | Status |
 |---|---|---|
-| 🔥 | **DSA** — Striver A2Z Sheet & LeetCode | `230+ problems` |
+| 🔥 | **DSA** — Striver A2Z Sheet & LeetCode | `280+ problems` |
 | ⚙️ | **C++** — primary language | `active` |
 | 🌐 | **Frontend** — HTML • CSS • JavaScript | `learning` |
 | 🐍 | **Backend** — Flask • Python | `active` |
