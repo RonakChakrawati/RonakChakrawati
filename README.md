@@ -12,7 +12,7 @@ I'm an engineering student at SVNIT Surat, interested in software engineering, A
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css,react,tailwind,flask,git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css,react,tailwind,flask,vite,git,github,vscode,nodejs,npm,vercel,postman" />
 </p>
 
 ## 🌱 Currently Exploring
